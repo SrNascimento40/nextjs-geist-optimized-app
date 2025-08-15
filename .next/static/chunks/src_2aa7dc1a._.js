@@ -423,7 +423,7 @@ function ModernHero() {
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "relative bg-white rounded-3xl p-2 shadow-2xl",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                            src: "https://placehold.co/500x600?text=Matheus+Rocha+professional+psychologist+warm+smile+modern+office+cozy+atmosphere",
+                                            src: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/42c8d08a-309a-43ee-be81-0c3179e40e7d.png",
                                             alt: "Matheus Rocha - Psicólogo especializado em TCC",
                                             className: "w-full h-auto rounded-2xl object-cover"
                                         }, void 0, false, {
@@ -648,7 +648,7 @@ function ModernAbout() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                        src: "https://placehold.co/500x600?text=Matheus+Rocha+in+therapy+office+warm+professional+setting+books+plants",
+                                        src: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d36ea667-b35a-45f4-a88a-e8e8307350c4.png",
                                         alt: "Matheus Rocha em seu consultório",
                                         className: "relative w-full h-auto rounded-3xl shadow-2xl object-cover"
                                     }, void 0, false, {
@@ -1657,7 +1657,7 @@ function ModernSpecialties() {
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "relative",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                            src: "https://placehold.co/400x300?text=Scientific+research+books+therapy+evidence+based+practice+warm+lighting",
+                                            src: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/466c2311-f7d8-4d29-b1d3-938b4868c607.png",
                                             alt: "Pesquisa científica em psicologia",
                                             className: "w-full h-auto rounded-2xl shadow-lg"
                                         }, void 0, false, {
